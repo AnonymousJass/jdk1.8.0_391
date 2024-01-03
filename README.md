@@ -42,3 +42,4 @@ sudo update-alternatives --config java
 
 java -version
 
+link:- https://www.kalilinux.in/2022/02/how-to-install-java8.html
