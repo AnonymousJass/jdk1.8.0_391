@@ -16,7 +16,7 @@ sudo nano /etc/environment
 
 #In the above screenshot we had highlighted the modified part of default file. Now we save and close this file by using CTRL+X then Y then Enter ⤶ key.
 
-# Now we will install OpenJDK 8 as an alternative, so that we can change our Java versions easily as per our requirement. We need to use following command:
+#Now we will install OpenJDK 8 as an alternative, so that we can change our Java versions easily as per our requirement. We need to use following command:
 
 sudo update-alternatives --install  "/usr/bin/java" "java" "/usr/lib/jvm/jdk1.8.0_391/bin/java" 0
 
