@@ -1,10 +1,10 @@
-# Now we need to click on the download button and let the download finish. Usually the downloads files stored on our Downloads directory. Now lets open our terminal and navigate to /usr/lib/jvm (If our system doesn't have any of Java versions then we need to create this jvm directory under /usr/lib manually by using sudo mkdir -p /usr/lib/jvm command) by using following command:
+Now we need to click on the download button and let the download finish. Usually the downloads files stored on our Downloads directory. Now lets open our terminal and navigate to /usr/lib/jvm (If our system doesn't have any of Java versions then we need to create this jvm directory under /usr/lib manually by using sudo mkdir -p /usr/lib/jvm command) by using following command:
 
 cd /usr/lib/jvm
 
 sudo unzip -r jdk1.8.0_391.zip
 
-# After all files extracted we need to navigate to our newly de-compressed directory (jdk1.8.0_321) by using following command:
+#After all files extracted we need to navigate to our newly de-compressed directory (jdk1.8.0_321) by using following command:
 
 cd jdk1.8.0_391
 
