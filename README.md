@@ -1,3 +1,5 @@
+#click Releases
+
 #Now we need to click on the download button and let the download finish. Usually the downloads files stored on our Downloads directory. Now lets open our terminal and navigate to /usr/lib/jvm (If our system doesn't have any of Java versions then we need to create this jvm directory under /usr/lib manually by using sudo mkdir -p /usr/lib/jvm command) by using following command:
 
 cd /usr/lib/jvm
