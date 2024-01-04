@@ -18,7 +18,7 @@ cd jdk1.8.0_391
 
 sudo nano /etc/environment
 
-/usr/lib/jvm/jdk1.8.0_391/bin:/usr/lib/jvm/jdk1.8.0_391/db/bin:/usr/lib/jvm/jdk1.8.0_391/jre/bin
+:/usr/lib/jvm/jdk1.8.0_391/bin:/usr/lib/jvm/jdk1.8.0_391/db/bin:/usr/lib/jvm/jdk1.8.0_391/jre/bin
 
 #In the above screenshot we had highlighted the modified part of default file. Now we save and close this file by using CTRL+X then Y then Enter ⤶ key.
 
