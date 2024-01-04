@@ -1,4 +1,6 @@
-#click Releases
+https://www.mediafire.com/file/h60rcnvirgqzb5a/jdk1.8.0_391.zip/file
+
+wget https://download1074.mediafire.com/14hhx6dfmzngyuMhsEIql8QHyj-oYF72dMbhi5H47mEbOQhItEZ-7Fre9WucjzX20JuGUmEflR1p31BOPPZIcA_-9EDxmYnd5hqKbuw6S-TGRBkHTvzGWFMbpn2SWDkvMrUhf9CCYg9vPEeMGbLTox9nLD6XN35tTiIvXUWRAqXrYpW9/h60rcnvirgqzb5a/jdk1.8.0_391.zip
 
 #Now we need to click on the download button and let the download finish. Usually the downloads files stored on our Downloads directory. Now lets open our terminal and navigate to /usr/lib/jvm (If our system doesn't have any of Java versions then we need to create this jvm directory under /usr/lib manually by using sudo mkdir -p /usr/lib/jvm command) by using following command:
 
